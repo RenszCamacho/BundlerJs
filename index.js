@@ -1,3 +1,3 @@
 import "normalize.css";
-import "./sass/main.scss";
-import "./js/main.js";
+import "./src/sass/main.scss";
+import "./src/js/main.js";
